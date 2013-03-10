@@ -1,16 +1,16 @@
-onesutosan,ã‚ªãƒã‚¹ãƒˆã•ã‚“
-hannpanee,åŠç«¯ã­ãˆï¼
-wakomusan,ãƒ¯ã‚³ãƒ ã•ã‚“
-kamikigyou,ç¥ä¼æ¥­
-sisutem,ã‚·ã‚¹ãƒ†ãƒ 
-koubouemusan,å·¥æˆ¿ã‚¨ãƒ ã•ã‚“
-atsui,ã‚¢ãƒ„ã„
+onesutosan,ƒIƒlƒXƒg‚³‚ñ
+hannpanee,”¼’[‚Ë‚¦I
+wakomusan,ƒƒRƒ€‚³‚ñ
+kamikigyou,_Šé‹Æ
+sisutem,ƒVƒXƒeƒ€
+koubouemusan,H–[ƒGƒ€‚³‚ñ
+atsui,ƒAƒc‚¢
 nacl,NaCl
-nihonnichi,æ—¥æœ¬ä¸€
+nihonnichi,“ú–{ˆê
 welove,We LOVE
-komatsudenki,å°æ¾é›»æ©Ÿ
-purobizumo,ãƒ—ãƒ­ãƒ“ã‚ºãƒ¢
-panee,ã±ã­ãˆ
-iisutobakku,ã‚¤ãƒ¼ã‚¹ãƒˆãƒãƒƒã‚¯
-syainnhutari,ç¤¾å“¡äºŒäºº
-hannpanee,åŠç«¯ã­ãˆ
+komatsudenki,¬¼“d‹@
+purobizumo,ƒvƒƒrƒYƒ‚
+panee,‚Ï‚Ë‚¦
+iisutobakku,ƒC[ƒXƒgƒoƒbƒN
+syainnhutari,Ğˆõ“ñl
+hannpanee,”¼’[‚Ë‚¦

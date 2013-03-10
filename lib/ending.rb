@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 class Ending < Scene
   attr_reader :closed
 

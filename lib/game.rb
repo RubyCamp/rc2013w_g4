@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 class Game < Scene
 attr_accessor :bom, :c_flag, :stage, :heart, :otokodakes, :combo, :now_time, :score, :moji_count
   def initialize
